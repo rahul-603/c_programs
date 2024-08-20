@@ -6,11 +6,11 @@
 	
 	           255
 	25.5 =    -----   =	  quot = 25 ; rem = 5
-			   10
+		   10
 
-									(remainder)                   5
+					(remainder)                   5
 	So, mixed number => (divisor) ----------------  => here,  25 ---
-									(quotient)					 10
+					(quotient)		      10
 	
 	
 */

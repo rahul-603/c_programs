@@ -5,9 +5,9 @@
 	
 	This is a simple program if the logic is known...
 	
-			 		          N! 
+			 	      N! 
 		RESULT =   -------------------------
-				         (R)! * (N-R)!
+				(R)! * (N-R)!
 
 */
 
